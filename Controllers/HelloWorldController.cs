@@ -24,4 +24,9 @@ public class HelloWorldController : Controller
   {
     return HtmlEncoder.Default.Encode($"Hello {name}, NumTimes is: {numTimes}");
   }
+
+  public string RouterParam(string name, int ID = 1)
+  {
+    return HtmlEncoder.Default.Encode($"Hello {name}, ID: {ID}");
+  }
 }
