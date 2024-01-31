@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rharuow/Documents/Harysson/projects/asp.net/BlazorApp/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/home/rharuow/Documents/Harysson/projects/asp.net/project/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/home/rharuow/Documents/Harysson/projects/asp.net/BlazorApp/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/home/rharuow/Documents/Harysson/projects/asp.net/project/MvcMovie.csproj",
       "packagesPath": "/home/rharuow/.nuget/packages/",
-      "outputPath": "/home/rharuow/Documents/Harysson/projects/asp.net/BlazorApp/MvcMovie/obj/",
+      "outputPath": "/home/rharuow/Documents/Harysson/projects/asp.net/project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rharuow/.nuget/NuGet/NuGet.Config"

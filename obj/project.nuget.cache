@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GqjHjRT/pkycC+hHZ8J7hu9499tXBncwwZcruB5PJ8HqwJ+fAZimEOeKYsov6LtUdelQmzNOyWGhH2e9qB6D4w==",
+  "dgSpecHash": "JJp/G+Wv9WiujyLR7TNIeKmQ5l7QpV4adPxnHKtcHJ8R6Ja9sMlPniNapZP+lPA7pVl1VmcN4h8gaBG0SNippA==",
   "success": true,
-  "projectFilePath": "/home/rharuow/Documents/Harysson/projects/asp.net/BlazorApp/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/home/rharuow/Documents/Harysson/projects/asp.net/project/MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
