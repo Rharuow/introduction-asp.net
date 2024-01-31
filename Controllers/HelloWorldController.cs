@@ -17,4 +17,11 @@ public class HelloWorldController : Controller
   {
     return "This is the Welcome action method...";
   }
+
+  // GET: /HelloWorld/QueryParam/ 
+  // Requires using System.Text.Encodings.Web;
+  public string QueryParam(string name, int numTimes = 1)
+  {
+    return HtmlEncoder.Default.Encode($"Hello {name}, NumTimes is: {numTimes}");
+  }
 }
